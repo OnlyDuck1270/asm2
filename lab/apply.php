@@ -17,15 +17,6 @@
 </head>
 
 <body>
-    <nav class="menu">
-        <img src="images/logo3.png" class="logo" alt="TechCareers Logo">
-        <ul>
-            <li><a href="index.html">HOMEPAGE</a></li>
-            <li><a href="jobs.html">JOB DESCRIPTIONS</a></li>
-            <li><a href="apply.html">APPLICATION</a></li>
-            <li><a href="about.html">ABOUT US</a></li>
-        </ul>
-    </nav>
     <!-- FORM BOX ----------------------------------------------------------------------------------------------------------------->
     <div class="grilloctopus-main-wrapper"> <!-- enable flexbox layout -->
         <div class="grilloctopus-form-wrapper"> <!-- edit form box size and add padding -->
