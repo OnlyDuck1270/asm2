@@ -499,6 +499,7 @@ input[type=reset] {
   margin-left: 30px;
 }
 
+/*CSS for manage.php*/
 .manage_title {
   text-align: center;
   font-size: 50px;
@@ -526,3 +527,6 @@ input[type=reset] {
   border: 1px solid #ddd; 
 }
 
+.contributions p {
+  color: #fff;
+}
